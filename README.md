@@ -1,3 +1,3 @@
 # performance-testing-juice-app
-Auther - Bhushan Dhande
+Auther - Bhushan Dhande QA Engineer
 Date: 10/08/2026
